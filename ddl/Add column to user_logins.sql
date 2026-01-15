@@ -1,0 +1,2 @@
+ALTER TABLE user_logins
+ADD COLUMN tenant VARCHAR(100);
