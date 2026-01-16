@@ -1,11 +1,2 @@
 ALTER TABLE user_logins
 ADD COLUMN tenant VARCHAR(100);
-
-ALTER TABLE user_logins
-ADD COLUMN tenant2 VARCHAR(100);
-
-ALTER TABLE user_logins
-ADD COLUMN tenant VARCHAR(100);
-
-ALTER TABLE user_logins
-ADD COLUMN tenant2 VARCHAR(100);
